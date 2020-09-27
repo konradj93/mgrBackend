@@ -1,0 +1,15 @@
+current directory: /Users/konradjarek/Desktop/mgr/csgm-backend/vendor/path/ruby/2.7.0/gems/bootsnap-1.4.8/ext/bootsnap
+/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/2.7.1_2/lib/ruby/2.7.0 -r ./siteconf20200920-823-3z8jr1.rb extconf.rb
+creating Makefile
+
+current directory: /Users/konradjarek/Desktop/mgr/csgm-backend/vendor/path/ruby/2.7.0/gems/bootsnap-1.4.8/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/konradjarek/Desktop/mgr/csgm-backend/vendor/path/ruby/2.7.0/gems/bootsnap-1.4.8/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/konradjarek/Desktop/mgr/csgm-backend/vendor/path/ruby/2.7.0/gems/bootsnap-1.4.8/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20200920-823-n4glhs/bootsnap
